@@ -1,0 +1,36 @@
+:root{
+    --subtitle-font: 1.25rem;
+    --large-font: 2.5rem;
+}
+
+.cards::-webkit-scrollbar, .tables::-webkit-scrollbar {
+    background: none
+  }
+
+header{
+    height: 27.5rem;
+}
+
+header img{
+    width: 10rem;
+}
+
+.photo__message{
+    left: calc(50% - 9rem);
+}
+
+.questions{
+    margin: 0 0 6.375rem;
+}
+
+.header__introduccion-container, .statistics__paragraph, .benefits__paragraph, .prices__paragraph, .questions-container{
+    max-width: 30rem;
+}
+
+.social-networks a{
+    font-size: 1.25rem;
+}
+
+.question-paragraph{
+    font-size: 1.25rem;
+}

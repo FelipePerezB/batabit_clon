@@ -1,0 +1,3 @@
+.header__introduccion-container, .statistics__paragraph, .benefits__paragraph, .prices__paragraph, .questions-container{
+    max-width: 40rem;
+}
