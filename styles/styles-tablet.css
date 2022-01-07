@@ -34,3 +34,7 @@ header img{
 .question-paragraph{
     font-size: 1.25rem;
 }
+
+.photo{
+    background-image: url("./../assets/images/batabit-foto.jpg");
+}
